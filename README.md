@@ -16,7 +16,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats-nine-black-63.vercel.app/api?username=jplinharescosta&include_all_commits=true&show_icons=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats-nine-black-63.vercel.app/api?username=jplinharescosta&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" width="350"></a>
 </p>
 
 <p align='center'>
